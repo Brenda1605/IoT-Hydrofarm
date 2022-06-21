@@ -1,24 +1,28 @@
 # IoT-Hydrofarm 🌡🏝
 
-**Dentro de este repositorio se estará guardando todo lo que se esté trabajando para la clase de Implementación de Internet de las Cosas**
+**Within this repository everything that is being worked on for the Internet of Things Implementation class will be saved**
 
-Hydrofarm es una simulación de un Huerto hidropónico en la que se implementa el Internet de las Cosas para controlar a través de un Tablero de Control, las variables que afectan en el crecimiento de las plantas dentro del huerto. Algunas de las variables que se toman en cuenta son:
-- Nivel del agua de los cultivos
-- Nivel de exposición solar
-- Tempratura
-- Humedad
+"Hydrofarm", is a simulation of a hydroponic garden in which the Internet of Things is implemented to control, with the use of an external Dashboard, the variables that affect the growth of plants in the garden. 
+<br>
+
+Some of the variables that are measured and controlled are:
+- Crop water level
+- Sun exposure level
+- Temperature
+- Humidity
 
 
-## Tecnologías y Conocimientos ⌨
-- Introducción al Hardware y dispositivos eléctricos
-- Bases de datos / SQL
-- Introducción a SCRUM
-- IoT (sensores, protocolos de comunicación)
+## Technologies and Knowledge ⌨
+- Introduction to Hardware y electronic devices
+- Databases / SQL
+- Introduction to SCRUM
+- IoT (sensors, comunication protocols)
 - Arduino
 - Freeboard IoT Dashboards
 
-## Autores
+## Authors
 - Brenda Castillo
 - Andres Nowak
 - Jorge López
+- Roberto López
 
